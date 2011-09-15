@@ -1,7 +1,7 @@
 [serverInfo]
-terrariaServer:
+terrariaHost:
 terrariaPort:
-mumbleServer:
+mumbleHost:
 mumblePort:
-minecraftServer:
+minecraftHost:
 minecraftPort:
